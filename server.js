@@ -33,5 +33,8 @@ app.use(session({
 
 app.use("/api/auth", authRoutes);
 app.use("/api/todos", todoRoutes);
+app.use('/',(req,res)=>{
+  res.send("Connected Successfully.....");
+})
 
 app.listen(5000, () => console.log("Server running on port 5000"));
