@@ -15,7 +15,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "http://localhost:5174",
+  origin: "https://todo-frontend-2-w3zi.onrender.com/",
   credentials: true
 }));
 
