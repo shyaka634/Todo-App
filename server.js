@@ -15,7 +15,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://todo-frontend-2-w3zi.onrender.com/",
+  origin: "https://todo-frontend-2-w3zi.onrender.com",
   credentials: true
 }));
 
