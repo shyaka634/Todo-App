@@ -1,6 +1,6 @@
 # ✅ Todo App — Backend API
 
-A backend REST API for a Todo application, built as a hobby challenge in **7 hours**. The API allows users to create, read, update, and delete tasks, powered by Express and MongoDB.
+A backend REST API for a Todo application, built as a hobby challenge in ** 1hours**. The API allows users to create, read, update, and delete tasks, powered by Express and MongoDB.
 
 ---
 
